@@ -20,7 +20,7 @@ elasticsearch==7.5.1
 elasticsearch-dsl==7.1.0
 entrypoints==0.3
 flasgger==0.9.4
-Flask==1.1.1
+Flask==2.2.5
 Flask-Cors==3.0.8
 flask-mongoengine==0.9.5
 Flask-PyMongo==2.3.0
@@ -39,7 +39,7 @@ ipywidgets==7.5.1
 isodate==0.6.0
 itsdangerous==1.1.0
 jedi==0.16.0
-Jinja2==2.11.1
+Jinja2==3.1.5
 jsonasobj==1.2.1
 jsonschema==3.2.0
 jupyter==1.0.0
@@ -78,7 +78,7 @@ ptyprocess==0.6.0
 py==1.8.1
 Pygments==2.6.1
 PyJSG==0.9.1
-pymongo==3.10.1
+pymongo==4.6.3
 pyparsing==2.4.6
 pyrsistent==0.15.7
 PyShEx==0.7.14
@@ -124,7 +124,7 @@ urllib3==1.25.7
 validators==0.14.2
 wcwidth==0.1.8
 webencodings==0.5.1
-Werkzeug==1.0.0
+Werkzeug==3.0.6
 widgetsnbextension==3.5.1
 WTForms==2.3.1
 zipp==3.1.0
