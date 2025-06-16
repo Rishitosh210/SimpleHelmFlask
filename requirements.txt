@@ -21,7 +21,7 @@ elasticsearch-dsl==7.1.0
 entrypoints==0.3
 flasgger==0.9.4
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==6.0.0
 flask-mongoengine==0.9.5
 Flask-PyMongo==2.3.0
 Flask-RESTful==0.3.8
@@ -95,7 +95,7 @@ QtPy==1.9.0
 rdflib==4.2.2
 rdflib-jsonld==0.4.0
 redis==3.4.1
-requests==2.22.0
+requests==2.32.4
 requests-cache==0.5.2
 Send2Trash==1.5.0
 ShExJSG==0.6.8
